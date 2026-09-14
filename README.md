@@ -17,4 +17,4 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
  <img align="center" alt="Csharp" height="40" width="40"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
 </div> 
-<img width="500" height="500" alt="4b06e393fd0647c265b1282b0f006486" src="https://github.com/user-attachments/assets/895d5dbb-1a83-45d0-a9a1-16c0f66e5a8c" />
+<img width="100" height="100" alt="4b06e393fd0647c265b1282b0f006486" src="https://github.com/user-attachments/assets/895d5dbb-1a83-45d0-a9a1-16c0f66e5a8c" />
